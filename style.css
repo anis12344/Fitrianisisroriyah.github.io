@@ -1,0 +1,60 @@
+body {
+    background-color:black;
+    background-image: url( "https://st3.depositphotos.com/5198485/37636/v/1600/depositphotos_376369896-stock-illustration-back-school-group-cartoon-children.jpg" );
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20px;
+    color: brown;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.gambarcontent{
+    width: 500px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+}
+
+.gambarcontent img{
+    width: 500px;
+    height: 200px;
+}
+
+.gambarcontent2{
+    width: 500px;
+    height: 250px;
+    margin-left: 10px;
+    float: left;
+}
+
+.gambarcontent2 img{
+    width: 500px;
+    height: 250px;
+}
+
+p{
+    margin-left: 10px;
+}
+
+.tim img {
+    width: 250px;
+    height: 300px;
+    border: 10px solid #ccc;
+}
+
+a.social{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+
+.kontak{
+
+}
